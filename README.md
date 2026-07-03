@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0089-gray-code) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
