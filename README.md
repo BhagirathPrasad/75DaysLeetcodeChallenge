@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0089-gray-code) |
+| [0095-unique-binary-search-trees-ii](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0095-unique-binary-search-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0085-maximal-rectangle) |
+| [0095-unique-binary-search-trees-ii](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0095-unique-binary-search-trees-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -77,8 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0095-unique-binary-search-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
