@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0097-interleaving-string) |
 ## Sorting
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0096-unique-binary-search-trees) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0101-symmetric-tree) |
 ## Binary Tree
@@ -96,12 +99,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0101-symmetric-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0096-unique-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
