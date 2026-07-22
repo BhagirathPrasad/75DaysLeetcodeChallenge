@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -116,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
