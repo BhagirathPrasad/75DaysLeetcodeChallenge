@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0139-word-break) |
 ## String
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 ## Divide and Conquer
@@ -250,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0139-word-break) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
