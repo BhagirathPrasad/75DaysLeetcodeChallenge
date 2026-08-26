@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0139-word-break) |
 ## String
 |  |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0135-candy) |
 ## DP on Trees
 |  |
 | ------- |
