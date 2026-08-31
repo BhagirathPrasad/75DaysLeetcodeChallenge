@@ -270,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0143-reorder-list) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
