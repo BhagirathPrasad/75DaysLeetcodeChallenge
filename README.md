@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0143-reorder-list) |
 ## Binary Search
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0143-reorder-list) |
 ## Stack
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 ## Greedy
 |  |
 | ------- |
