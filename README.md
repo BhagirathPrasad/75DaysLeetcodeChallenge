@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0139-word-break) |
+| [0162-find-peak-element](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0162-find-peak-element) |
 ## String
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/BhagirathPrasad/75DaysLeetcodeChallenge/tree/master/0162-find-peak-element) |
 ## Linked List
 |  |
 | ------- |
